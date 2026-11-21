@@ -1,0 +1,2 @@
+# Adding board photos
+Upload images to an images folder in this repository. In index.html, replace the contents of any div with class visual with an image tag, for example: <img src="images/robotics.jpg" alt="Diana at a robotics event">. For the portrait, also remove the portrait class to hide the DK monogram. Commit the files; GitHub Actions will redeploy the website. Photos must be committed to GitHub to become visible to other visitors; local previews are not uploads. Only use photos you have permission to publish.
